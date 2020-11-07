@@ -1,0 +1,22 @@
+//存储mutations.js的方法名
+export const SET_SINGERS = 'SET_SINGERS';
+
+export const SET_PLAYINGSTATE = 'SET_PLAYINGSTATE';
+
+export const SET_FULLSCREEN = 'SET_FULLSCREEN';
+
+export const SET_PLAYINGLIST = 'SET_PLAYINGLIST';
+
+export const SET_SEQUENCELIST = 'SET_SEQUENCELIST';
+
+export const SET_CURRENTINDEX = 'SET_CURRENTINDEX';
+
+export const SET_PLAYMODE = 'SET_PLAYMODE';
+
+export const SET_DISC = 'SET_DISC';
+
+export const SET_TOPLIST = 'SET_TOPLIST';
+
+export const SET_SEARCH_HISTORY = 'SET_SEARCH_HISTORY';
+
+export const SET_PLAY_HISTORY = 'SET_PLAY_HISTORY';
